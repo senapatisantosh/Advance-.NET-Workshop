@@ -1,0 +1,7 @@
+C:\Users\SantoshKumar\source\repos\UnoxCaseStudy\UnoxCaseStudy\bin\Debug\UnoxCaseStudy.exe.config
+C:\Users\SantoshKumar\source\repos\UnoxCaseStudy\UnoxCaseStudy\bin\Debug\UnoxCaseStudy.exe
+C:\Users\SantoshKumar\source\repos\UnoxCaseStudy\UnoxCaseStudy\bin\Debug\UnoxCaseStudy.pdb
+C:\Users\SantoshKumar\source\repos\UnoxCaseStudy\UnoxCaseStudy\obj\Debug\UnoxCaseStudy.csprojAssemblyReference.cache
+C:\Users\SantoshKumar\source\repos\UnoxCaseStudy\UnoxCaseStudy\obj\Debug\UnoxCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\UnoxCaseStudy\UnoxCaseStudy\obj\Debug\UnoxCaseStudy.exe
+C:\Users\SantoshKumar\source\repos\UnoxCaseStudy\UnoxCaseStudy\obj\Debug\UnoxCaseStudy.pdb

@@ -1,0 +1,6 @@
+C:\Users\SantoshKumar\source\repos\EventDemo\EventFactory\bin\Debug\EventFactory.dll
+C:\Users\SantoshKumar\source\repos\EventDemo\EventFactory\bin\Debug\EventFactory.pdb
+C:\Users\SantoshKumar\source\repos\EventDemo\EventFactory\obj\Debug\EventFactory.csprojAssemblyReference.cache
+C:\Users\SantoshKumar\source\repos\EventDemo\EventFactory\obj\Debug\EventFactory.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\EventDemo\EventFactory\obj\Debug\EventFactory.dll
+C:\Users\SantoshKumar\source\repos\EventDemo\EventFactory\obj\Debug\EventFactory.pdb

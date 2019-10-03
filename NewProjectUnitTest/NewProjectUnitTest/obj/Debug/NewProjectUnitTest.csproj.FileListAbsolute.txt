@@ -1,0 +1,14 @@
+C:\Users\SantoshKumar\source\repos\NewProjectUnitTest\NewProjectUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SantoshKumar\source\repos\NewProjectUnitTest\NewProjectUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SantoshKumar\source\repos\NewProjectUnitTest\NewProjectUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SantoshKumar\source\repos\NewProjectUnitTest\NewProjectUnitTest\bin\Debug\NewProjectUnitTest.dll
+C:\Users\SantoshKumar\source\repos\NewProjectUnitTest\NewProjectUnitTest\bin\Debug\NewProjectUnitTest.pdb
+C:\Users\SantoshKumar\source\repos\NewProjectUnitTest\NewProjectUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SantoshKumar\source\repos\NewProjectUnitTest\NewProjectUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SantoshKumar\source\repos\NewProjectUnitTest\NewProjectUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\SantoshKumar\source\repos\NewProjectUnitTest\NewProjectUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\SantoshKumar\source\repos\NewProjectUnitTest\NewProjectUnitTest\obj\Debug\NewProjectUnitTest.csprojAssemblyReference.cache
+C:\Users\SantoshKumar\source\repos\NewProjectUnitTest\NewProjectUnitTest\obj\Debug\NewProjectUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\NewProjectUnitTest\NewProjectUnitTest\obj\Debug\NewProjectUnitTest.csproj.CopyComplete
+C:\Users\SantoshKumar\source\repos\NewProjectUnitTest\NewProjectUnitTest\obj\Debug\NewProjectUnitTest.dll
+C:\Users\SantoshKumar\source\repos\NewProjectUnitTest\NewProjectUnitTest\obj\Debug\NewProjectUnitTest.pdb

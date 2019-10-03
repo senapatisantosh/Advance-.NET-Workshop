@@ -1,0 +1,6 @@
+c:\users\santoshkumar\source\repos\ChatApplicaton\ChatApplicatonClient2\bin\Debug\ChatApplicatonClient2.exe.config
+c:\users\santoshkumar\source\repos\ChatApplicaton\ChatApplicatonClient2\bin\Debug\ChatApplicatonClient2.exe
+c:\users\santoshkumar\source\repos\ChatApplicaton\ChatApplicatonClient2\bin\Debug\ChatApplicatonClient2.pdb
+c:\users\santoshkumar\source\repos\ChatApplicaton\ChatApplicatonClient2\obj\Debug\ChatApplicatonClient2.csproj.CoreCompileInputs.cache
+c:\users\santoshkumar\source\repos\ChatApplicaton\ChatApplicatonClient2\obj\Debug\ChatApplicatonClient2.exe
+c:\users\santoshkumar\source\repos\ChatApplicaton\ChatApplicatonClient2\obj\Debug\ChatApplicatonClient2.pdb

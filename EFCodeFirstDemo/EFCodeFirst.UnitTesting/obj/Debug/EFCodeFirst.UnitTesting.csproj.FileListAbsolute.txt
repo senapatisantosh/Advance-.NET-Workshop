@@ -1,0 +1,14 @@
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.UnitTesting\bin\Debug\EFCodeFirst.UnitTesting.dll
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.UnitTesting\bin\Debug\EFCodeFirst.UnitTesting.pdb
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.UnitTesting\obj\Debug\EFCodeFirst.UnitTesting.csprojAssemblyReference.cache
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.UnitTesting\obj\Debug\EFCodeFirst.UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.UnitTesting\obj\Debug\EFCodeFirst.UnitTesting.csproj.CopyComplete
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.UnitTesting\obj\Debug\EFCodeFirst.UnitTesting.dll
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.UnitTesting\obj\Debug\EFCodeFirst.UnitTesting.pdb

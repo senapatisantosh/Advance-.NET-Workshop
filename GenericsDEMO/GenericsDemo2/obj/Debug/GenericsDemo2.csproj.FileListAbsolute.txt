@@ -1,0 +1,11 @@
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDemo2\bin\Debug\GenericsDemo2.exe.config
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDemo2\bin\Debug\GenericsDemo2.exe
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDemo2\bin\Debug\GenericsDemo2.pdb
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDemo2\obj\Debug\GenericsDemo2.csprojAssemblyReference.cache
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDemo2\obj\Debug\GenericsDemo2.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDemo2\obj\Debug\GenericsDemo2.exe
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDemo2\obj\Debug\GenericsDemo2.pdb
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDemo2\bin\Debug\GenericsDEMO.exe
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDemo2\bin\Debug\GenericsDEMO.pdb
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDemo2\bin\Debug\GenericsDEMO.exe.config
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDemo2\obj\Debug\GenericsDemo2.csproj.CopyComplete

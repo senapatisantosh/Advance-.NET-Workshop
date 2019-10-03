@@ -1,0 +1,8 @@
+C:\Users\SantoshKumar\source\repos\AdvanceTSQLDemo\AdvanceTSQLDemo\bin\Debug\AdvanceTSQLDemo.dacpac
+C:\Users\SantoshKumar\source\repos\AdvanceTSQLDemo\AdvanceTSQLDemo\obj\Debug\AdvanceTSQLDemo.sqlprojAssemblyReference.cache
+C:\Users\SantoshKumar\source\repos\AdvanceTSQLDemo\AdvanceTSQLDemo\obj\Debug\Model.xml
+C:\Users\SantoshKumar\source\repos\AdvanceTSQLDemo\AdvanceTSQLDemo\obj\Debug\refactor.xml
+C:\Users\SantoshKumar\source\repos\AdvanceTSQLDemo\AdvanceTSQLDemo\obj\Debug\postdeploy.sql
+C:\Users\SantoshKumar\source\repos\AdvanceTSQLDemo\AdvanceTSQLDemo\obj\Debug\predeploy.sql
+C:\Users\SantoshKumar\source\repos\AdvanceTSQLDemo\AdvanceTSQLDemo\obj\Debug\AdvanceTSQLDemo.dll
+C:\Users\SantoshKumar\source\repos\AdvanceTSQLDemo\AdvanceTSQLDemo\obj\Debug\AdvanceTSQLDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\SantoshKumar\source\repos\MultiThreadingDemo\Event\bin\Debug\Event.exe
+C:\Users\SantoshKumar\source\repos\MultiThreadingDemo\Event\bin\Debug\Event.pdb
+C:\Users\SantoshKumar\source\repos\MultiThreadingDemo\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\MultiThreadingDemo\Event\obj\Debug\Event.exe
+C:\Users\SantoshKumar\source\repos\MultiThreadingDemo\Event\obj\Debug\Event.pdb
+C:\Users\SantoshKumar\source\repos\MultiThreadingDemo\Event\obj\Debug\Event.csprojAssemblyReference.cache

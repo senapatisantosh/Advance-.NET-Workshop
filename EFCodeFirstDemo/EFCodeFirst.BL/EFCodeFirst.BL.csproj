@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E5119711-C6DE-49B0-A8F2-6B3B581A2744}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EFCodeFirst.BL</RootNamespace>
+    <AssemblyName>EFCodeFirst.BL</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GenericManager.cs" />
+    <Compile Include="IGenericManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EFCodeFirst.CL.Exception\EFCodeFirst.CL.Exception.csproj">
+      <Project>{1ce74667-f98c-407f-8d04-31f13e9fc960}</Project>
+      <Name>EFCodeFirst.CL.Exception</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EFCodeFirst.CL.Utility\EFCodeFirst.CL.Utility.csproj">
+      <Project>{0c87aea7-3c39-44e5-a292-03307408e732}</Project>
+      <Name>EFCodeFirst.CL.Utility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EFCodeFirst.CommonLayer\EFCodeFirst.CL.Entity.csproj">
+      <Project>{7d2207f7-f47f-4124-a92f-0b2e661431a9}</Project>
+      <Name>EFCodeFirst.CL.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EFCodeFirst.DAL\EFCodeFirst.DAL.csproj">
+      <Project>{a94abd64-cad9-484a-b635-3ac105f0fac7}</Project>
+      <Name>EFCodeFirst.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

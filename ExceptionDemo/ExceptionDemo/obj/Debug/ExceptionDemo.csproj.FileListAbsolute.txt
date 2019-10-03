@@ -1,0 +1,6 @@
+c:\users\santoshkumar\source\repos\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+c:\users\santoshkumar\source\repos\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+c:\users\santoshkumar\source\repos\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+c:\users\santoshkumar\source\repos\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.CoreCompileInputs.cache
+c:\users\santoshkumar\source\repos\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+c:\users\santoshkumar\source\repos\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.pdb

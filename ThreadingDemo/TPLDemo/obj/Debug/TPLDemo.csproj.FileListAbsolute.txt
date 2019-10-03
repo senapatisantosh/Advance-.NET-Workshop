@@ -1,0 +1,7 @@
+C:\Users\SantoshKumar\source\repos\ThreadingDemo\TPLDemo\bin\Debug\TPLDemo.exe.config
+C:\Users\SantoshKumar\source\repos\ThreadingDemo\TPLDemo\bin\Debug\TPLDemo.exe
+C:\Users\SantoshKumar\source\repos\ThreadingDemo\TPLDemo\bin\Debug\TPLDemo.pdb
+C:\Users\SantoshKumar\source\repos\ThreadingDemo\TPLDemo\obj\Debug\TPLDemo.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\ThreadingDemo\TPLDemo\obj\Debug\TPLDemo.exe
+C:\Users\SantoshKumar\source\repos\ThreadingDemo\TPLDemo\obj\Debug\TPLDemo.pdb
+C:\Users\SantoshKumar\source\repos\ThreadingDemo\TPLDemo\obj\Debug\TPLDemo.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.CL.Utility\bin\Debug\EFCodeFirst.CL.Utility.dll
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.CL.Utility\bin\Debug\EFCodeFirst.CL.Utility.pdb
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.CL.Utility\obj\Debug\EFCodeFirst.CL.Utility.csprojAssemblyReference.cache
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.CL.Utility\obj\Debug\EFCodeFirst.CL.Utility.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.CL.Utility\obj\Debug\EFCodeFirst.CL.Utility.dll
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.CL.Utility\obj\Debug\EFCodeFirst.CL.Utility.pdb

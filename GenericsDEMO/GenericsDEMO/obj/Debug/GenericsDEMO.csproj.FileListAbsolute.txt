@@ -1,0 +1,7 @@
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDEMO\bin\Debug\GenericsDEMO.exe.config
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDEMO\bin\Debug\GenericsDEMO.exe
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDEMO\bin\Debug\GenericsDEMO.pdb
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDEMO\obj\Debug\GenericsDEMO.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDEMO\obj\Debug\GenericsDEMO.exe
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDEMO\obj\Debug\GenericsDEMO.pdb
+C:\Users\SantoshKumar\source\repos\GenericsDEMO\GenericsDEMO\obj\Debug\GenericsDEMO.csprojAssemblyReference.cache

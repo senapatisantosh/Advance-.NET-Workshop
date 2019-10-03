@@ -1,0 +1,10 @@
+C:\Users\SantoshKumar\source\repos\FileIODemo\FileIODemo\bin\Debug\FileIODemo.exe.config
+C:\Users\SantoshKumar\source\repos\FileIODemo\FileIODemo\bin\Debug\FileIODemo.exe
+C:\Users\SantoshKumar\source\repos\FileIODemo\FileIODemo\bin\Debug\FileIODemo.pdb
+C:\Users\SantoshKumar\source\repos\FileIODemo\FileIODemo\obj\Debug\FileIODemo.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\FileIODemo\FileIODemo\obj\Debug\FileIODemo.exe
+C:\Users\SantoshKumar\source\repos\FileIODemo\FileIODemo\obj\Debug\FileIODemo.pdb
+C:\Users\SantoshKumar\source\repos\FileIODemo\FileIODemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SantoshKumar\source\repos\FileIODemo\FileIODemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SantoshKumar\source\repos\FileIODemo\FileIODemo\obj\Debug\FileIODemo.csprojAssemblyReference.cache
+C:\Users\SantoshKumar\source\repos\FileIODemo\FileIODemo\obj\Debug\FileIODemo.csproj.CopyComplete

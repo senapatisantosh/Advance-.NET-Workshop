@@ -1,0 +1,27 @@
+﻿USE [Northwind]
+GO
+
+/****** Object:  UserDefinedFunction [dbo].[LOWER_CASING]    Script Date: 9/9/2019 1:51:54 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE FUNCTION [dbo].[LOWER_CASING](@strInput VARCHAR(MAX)) 
+								RETURNS VARCHAR(MAX)
+AS
+BEGIN
+
+DECLARE @RESULT VARCHAR(MAX) = NULL
+
+--LOGIC FOR PASCAL CASING
+SET @RESULT = 'ERROR MESSAGE:' + LOWER(@strInput)
+
+RETURN @RESULT
+		
+END
+
+GO
+
+

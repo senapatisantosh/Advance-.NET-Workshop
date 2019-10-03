@@ -1,0 +1,7 @@
+C:\Users\SantoshKumar\source\repos\ThreadingDemo\ThreadSynchronizationTechniques\bin\Debug\ThreadSynchronizationTechniques.exe.config
+C:\Users\SantoshKumar\source\repos\ThreadingDemo\ThreadSynchronizationTechniques\bin\Debug\ThreadSynchronizationTechniques.exe
+C:\Users\SantoshKumar\source\repos\ThreadingDemo\ThreadSynchronizationTechniques\bin\Debug\ThreadSynchronizationTechniques.pdb
+C:\Users\SantoshKumar\source\repos\ThreadingDemo\ThreadSynchronizationTechniques\obj\Debug\ThreadSynchronizationTechniques.csprojAssemblyReference.cache
+C:\Users\SantoshKumar\source\repos\ThreadingDemo\ThreadSynchronizationTechniques\obj\Debug\ThreadSynchronizationTechniques.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\ThreadingDemo\ThreadSynchronizationTechniques\obj\Debug\ThreadSynchronizationTechniques.exe
+C:\Users\SantoshKumar\source\repos\ThreadingDemo\ThreadSynchronizationTechniques\obj\Debug\ThreadSynchronizationTechniques.pdb

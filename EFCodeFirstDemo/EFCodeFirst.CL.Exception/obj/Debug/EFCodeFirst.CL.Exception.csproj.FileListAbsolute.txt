@@ -1,0 +1,6 @@
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.CL.Exception\bin\Debug\EFCodeFirst.CL.Exception.dll
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.CL.Exception\bin\Debug\EFCodeFirst.CL.Exception.pdb
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.CL.Exception\obj\Debug\EFCodeFirst.CL.Exception.csprojAssemblyReference.cache
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.CL.Exception\obj\Debug\EFCodeFirst.CL.Exception.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.CL.Exception\obj\Debug\EFCodeFirst.CL.Exception.dll
+C:\Users\SantoshKumar\source\repos\EFCodeFirstDemo\EFCodeFirst.CL.Exception\obj\Debug\EFCodeFirst.CL.Exception.pdb

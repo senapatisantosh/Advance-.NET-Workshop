@@ -1,0 +1,8 @@
+C:\Users\SantoshKumar\source\repos\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.exe.config
+C:\Users\SantoshKumar\source\repos\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.xml
+C:\Users\SantoshKumar\source\repos\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.exe
+C:\Users\SantoshKumar\source\repos\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.pdb
+C:\Users\SantoshKumar\source\repos\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.exe
+C:\Users\SantoshKumar\source\repos\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.pdb
+C:\Users\SantoshKumar\source\repos\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.csprojAssemblyReference.cache

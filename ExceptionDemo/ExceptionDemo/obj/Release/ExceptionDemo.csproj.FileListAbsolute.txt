@@ -1,0 +1,4 @@
+C:\Users\SantoshKumar\source\repos\ExceptionDemo\ExceptionDemo\bin\Release\ExceptionDemo.exe.config
+C:\Users\SantoshKumar\source\repos\ExceptionDemo\ExceptionDemo\bin\Release\ExceptionDemo.exe
+C:\Users\SantoshKumar\source\repos\ExceptionDemo\ExceptionDemo\obj\Release\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\ExceptionDemo\ExceptionDemo\obj\Release\ExceptionDemo.exe

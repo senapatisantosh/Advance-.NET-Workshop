@@ -1,0 +1,6 @@
+C:\Users\SantoshKumar\source\repos\MultiThreadingDemo\FunctionAndPredicate\bin\Debug\FunctionAndPredicate.exe
+C:\Users\SantoshKumar\source\repos\MultiThreadingDemo\FunctionAndPredicate\bin\Debug\FunctionAndPredicate.pdb
+C:\Users\SantoshKumar\source\repos\MultiThreadingDemo\FunctionAndPredicate\obj\Debug\FunctionAndPredicate.csproj.CoreCompileInputs.cache
+C:\Users\SantoshKumar\source\repos\MultiThreadingDemo\FunctionAndPredicate\obj\Debug\FunctionAndPredicate.exe
+C:\Users\SantoshKumar\source\repos\MultiThreadingDemo\FunctionAndPredicate\obj\Debug\FunctionAndPredicate.pdb
+C:\Users\SantoshKumar\source\repos\MultiThreadingDemo\FunctionAndPredicate\obj\Debug\FunctionAndPredicate.csprojAssemblyReference.cache
